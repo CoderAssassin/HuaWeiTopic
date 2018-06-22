@@ -3,8 +3,8 @@ import java.util.Scanner;
 /**
  * @Author:Aliyang
  * @Data: Created in 下午12:45 18-6-22
- * 蛇形矩阵：我的解法
- * 思路：找规律
+ * 蛇形矩阵：我的解法，
+ * 思路：找规律。每一行的开始增量为行数+1
  **/
 public class T34 {
 
