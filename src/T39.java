@@ -24,7 +24,7 @@ public class T39 {
                     space++;
                 else others++;
             }
-            System.out.println(english+"\n"+space+"\n"+nums+"\n"+others;
+            System.out.println(english+"\n"+space+"\n"+nums+"\n"+others);
         }
 
     }
