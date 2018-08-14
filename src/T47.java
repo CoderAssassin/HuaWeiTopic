@@ -19,7 +19,7 @@ public class T47 {
     }
     public static void handle(Scanner scanner){
         String str = scanner.nextLine();
-        LinkedList<Integer> linkedList = new LinkedList<Integer>();
+        LinkedList<Integer> linkedList = new LinkedList<>();
         int loc = str.indexOf(" ");
         int num = Integer.parseInt(str.substring(0,loc));
         str = str.substring(loc+1);
