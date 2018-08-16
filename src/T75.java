@@ -4,6 +4,7 @@ import java.util.Scanner;
  * @Author:Aliyang
  * @Data: Created in 上午8:58 18-8-16
  * 尼科彻斯定理：我的解法
+ * 别人思路：第一项是m*m+1-m，有m项
  **/
 public class T75 {
 
